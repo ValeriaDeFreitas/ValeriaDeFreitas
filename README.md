@@ -1,4 +1,8 @@
-### olá 👋
+### 👋 Hello! Welcome to my Github profile.
+### I study three languages:
+### Spanish 🇪🇸
+### English 🇺🇸
+### Japanese 🇯🇵
 <div align="center">
   <br>
    <a href="https://github.com/ValeriaDeFreitas">
