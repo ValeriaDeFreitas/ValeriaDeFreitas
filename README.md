@@ -1,3 +1,4 @@
+## Hello! Welcome to my Github profile.
 <div>
 <a href="https://github.com/ValeriaDeFreitas">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaDeFreitas&layout=compact&langs_count=7&theme=dracula"/>
