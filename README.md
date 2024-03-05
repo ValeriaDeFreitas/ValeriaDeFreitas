@@ -1,10 +1,8 @@
-
-<div align="center">
-  <br>
-   <a href="https://github.com/ValeriaDeFreitas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValeriaDeFreitas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">                                                                       <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaDeFreitas&layout=compact&langs_count=7&theme=midnight-purple"/>
+<div>
+<a href="https://github.com/ValeriaDeFreitas">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaDeFreitas&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ValeriaDeFreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-   <img align="right" alt="Val-pic" height="150" style="border-radius:50px;" 
+
 
 
