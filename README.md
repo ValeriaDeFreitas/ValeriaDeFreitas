@@ -1,4 +1,4 @@
-### Hello! I'm Valéria.
+# Hello! I'm Valéria.
 ## Welcome to my github profile.
 <div>
 <a href="https://github.com/ValeriaDeFreitas">
