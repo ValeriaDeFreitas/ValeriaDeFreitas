@@ -38,5 +38,5 @@
 
 ![Snake animation](https://github.com/ValeriaDeFreitas/ValeriaDeFreitas/blob/output/github-contribution-grid-snake.svg)-->
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
     
