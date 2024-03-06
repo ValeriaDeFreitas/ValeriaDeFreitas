@@ -1,7 +1,7 @@
 # Hello! I'm Valéria.
 #### Welcome to my github profile.
 #### I'm study:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" heigth="50" />
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" heigth="50" />
 <div>
 <a href="https://github.com/ValeriaDeFreitas">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaDeFreitas&layout=compact&langs_count=7&theme=dracula"/>
@@ -31,4 +31,4 @@
   />
 </picture>
 
-![Snake animation](https://github.com/ValeriaDeFreitas/ValeriaDeFreitas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ValeriaDeFreitas/ValeriaDeFreitas/blob/output/github-contribution-grid-snake.svg)-->
