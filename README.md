@@ -1,5 +1,6 @@
 <div>
     <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+    ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 </div>
 <br/>
 
@@ -39,5 +40,4 @@
 
 ![Snake animation](https://github.com/ValeriaDeFreitas/ValeriaDeFreitas/blob/output/github-contribution-grid-snake.svg)-->
 
-https://capsule-render.vercel.app/api?
-    ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+    
