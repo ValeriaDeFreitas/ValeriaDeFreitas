@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=_hexcode&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=300&section=header&text=capsule%20render&fontSize=90" />
 <br/>
 
 # Hello! I'm Valéria.
