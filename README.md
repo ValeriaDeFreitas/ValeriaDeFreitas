@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff006e&height=200&section=header" />
-<br/>
+<br\>
 # Hello! I'm Valéria.
 #### Welcome to my github profile.
 #### I'm study:
