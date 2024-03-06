@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4ea8de&height=200&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=200&section=header" />
 <br\>
 
 # Hello! I'm Valéria.
@@ -37,5 +37,5 @@
 
 ![Snake animation](https://github.com/ValeriaDeFreitas/ValeriaDeFreitas/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=560bad&height=130&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=130&section=footer" />
     
