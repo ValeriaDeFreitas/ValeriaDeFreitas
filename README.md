@@ -6,6 +6,8 @@
 #### I'm study:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" heigth="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" heigth="50"/>
+          
 <div>
 <a href="https://github.com/ValeriaDeFreitas">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaDeFreitas&layout=compact&langs_count=7&theme=neon&hide_border"/>
