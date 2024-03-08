@@ -4,11 +4,11 @@
 # Hello! I'm Valéria.
 #### Welcome to my github profile.
 <br/>
-####💻 Fatec - Desenvolvimento de Sistemas Multiplataforma.
+### 💻 Fatec - Desenvolvimento de Sistemas Multiplataforma.
 <br/>
-#####🖱️ Etec - Desenvolvimento de Sistemas.
+##### 🖱️ Etec - Desenvolvimento de Sistemas.
 <br/>
-#### 🇪🇸
+####  🇪🇸
 <!--
 #### I'm study:
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" heigth="50" />
