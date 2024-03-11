@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=150&section=header" />
-<br\>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Valéria;Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -8,6 +7,7 @@
 - 💻 Fatec - Desenvolvimento de Sistemas Multiplataforma. 
 - 🖱️ Etec - Desenvolvimento de Sistemas.
 
+<br\>
 <!--
 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" heigth="50" />
