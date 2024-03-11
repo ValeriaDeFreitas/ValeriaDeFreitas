@@ -6,7 +6,6 @@
 ##### I'm study:
 - 💻 Fatec - Desenvolvimento de Sistemas Multiplataforma. 
 - 🖱️ Etec - Desenvolvimento de Sistemas.
-
 <br\>
 <!--
 
