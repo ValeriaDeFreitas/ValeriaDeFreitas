@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=150&section=header" />
 <br\>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+Valéria;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Valéria;Welcome!+:%29)](https://git.io/typing-svg)
 
-#### Welcome to my github profile.
 
 ##### I'm study:
 - 💻 Fatec - Desenvolvimento de Sistemas Multiplataforma. 
