@@ -15,7 +15,7 @@
 -->       
 <div>
 <a href="https://github.com/ValeriaDeFreitas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaDeFreitas&layout=compact&langs_count=7&theme=neon&hiden_border"/> <br>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaDeFreitas&layout=compact&langs_count=7&theme=neon&hiden_border"/> <br><br>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ValeriaDeFreitas&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
 </div>
 <br>
