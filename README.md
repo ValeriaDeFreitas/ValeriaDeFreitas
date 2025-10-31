@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=150&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Valéria;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Valéria;Welcome!+:%29)](https://git.io/typing-svg)
 
 
 ##### Main skills:
@@ -38,5 +38,5 @@
 
 ![Snake animation](https://github.com/ValeriaDeFreitas/ValeriaDeFreitas/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=130&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=130&section=footer" />
     
