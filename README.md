@@ -16,12 +16,11 @@
 
 <div align="center">
   <a href="https://github.com/ValeriaDeFreitas">
-    <!-- GitHub readme stats (degradê rosa no fundo) -->
     <img loading="lazy" height="180em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaDeFreitas&layout=compact&langs_count=7&hide_border=true&bg_color=30,DC143C,FF69B4,FFC0CB&title_color=ffffff&text_color=fffafa&icon_color=ffffff" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaDeFreitas&layout=compact&langs_count=7&hide_border=true&bg_color=30,DC143C,FF69B4,FFC0CB&title_color=ffffff&text_color=fffafa&icon_color=ffffff"
          alt="Top languages"/>
     <img loading="lazy" height="180em"
-         src="https://github-readme-stats.vercel.app/api?username=ValeriaDeFreitas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=30,DC143C,FF69B4,FFC0CB&title_color=ffffff&text_color=fffafa&icon_color=ffffff"
+         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ValeriaDeFreitas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=30,DC143C,FF69B4,FFC0CB&title_color=ffffff&text_color=fffafa&icon_color=ffffff"
          alt="GitHub stats"/>
   </a>
 </div>
